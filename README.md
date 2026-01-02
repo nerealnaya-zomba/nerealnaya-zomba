@@ -8,4 +8,4 @@ I love to learn new information.
 
 
 # Github Stats
-![](https://komarev.com/ghpvc/?username=nerealnaya-zomba&color=ff69b4)  :hearts:
+:hearts: ![](https://komarev.com/ghpvc/?username=nerealnaya-zomba&color=ff69b4)  :hearts:
