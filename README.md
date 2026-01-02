@@ -7,7 +7,7 @@ In future wanna try to develope libraries or make my own drivers for something. 
 I love to learn new information.
 
 ## Current tech stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,cmake&theme=light)](https://skillicons.dev)
 
 
 ## Github Stats
